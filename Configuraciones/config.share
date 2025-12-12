@@ -1,0 +1,5 @@
+{
+    "shareCredentialsVersion":1,"bearerToken":"zHzs5ZJdyQdKojsaq0P6vuD-Ji5oBGnOvms1ou-k--tL4spUTlQm3rFuQ-rCuk0Y",
+    "endpoint":"https://eastus2-c2.azuredatabricks.net/api/2.0/delta-sharing/metastores/7bb77b6f-7044-4a53-a7ed-4f93945a22e4",
+    "expirationTime":"2026-03-11T20:40:13.470Z"
+}
